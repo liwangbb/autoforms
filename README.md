@@ -181,3 +181,12 @@ python main.py <input_pdf_path> --emr <emr_file1.txt> [<emr_file2.txt>...] -o <o
 ```bash
 python3 main.py input/form/canadalife.pdf --emr input/emr/image/emr_image_test_clinical_info.txt -v
 ```
+
+This is a cleaned, public version of a private project I contributed to while working at Mutuo.
+
+Note:
+- No proprietary code or data is included.
+- All logic here was written or refactored by me.
+- Original repo remains private per company policy.
+
+This version is for **portfolio and skill demonstration purposes only.**
