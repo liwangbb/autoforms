@@ -1,0 +1,38 @@
+
+🏥 Electronic Medical Record (EMR)
+
+🔹 Member and Patient Information
+- Member Name: Emily Zhang
+- Policy Number: PZ-384729193
+- Certificate Number: CZ-839201
+- Patient Name (if different): Emily Zhang
+- Relationship to Plan Member: Self
+- Date of Birth: June 11, 1982
+- Covered by Another Group Plan: No
+- Financial Assistance: No
+- Reason for No Financial Assistance: Not eligible for external funding; patient prefers private insurance
+- Member Signature: Emily Zhang
+- Date of Signature: March 22, 2025
+- Address: 145 Grove Street, Jersey City, NJ
+- Postal Code: 07302
+- Daytime Phone Number: (201) 555-2847
+- Extension: 221
+- Email: emily.zhang82@gmail.com
+
+🔹 Prescription Information
+- Drug Requested: RYBELSUS (semaglutide)
+- Diagnosis: Type 2 diabetes
+- Semaglutide with Metformin: Yes
+- Reason if Not Combined (Ignored): Not applicable
+
+🔹 Physician Information
+- Physician Name: Dr. Monica Rivera
+- Address: Jersey Medical Center – Endocrinology Clinic
+- Postal Code: 07302
+- Telephone: (201) 555-1123
+- Fax: (201) 555-1188
+- Email: mrivera@endoclinic.org
+- License Number: NJ-MR-481029
+- Specialty: Specialist (Endocrinologist)
+- Physician Signature: Dr. Monica Rivera
+- Date of Signature: March 25, 2025

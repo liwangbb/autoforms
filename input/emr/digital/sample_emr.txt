@@ -1,0 +1,42 @@
+Patient Information:
+
+Name: Jane Smith
+DOB: 06/25/1982
+Date: 03/04/2024
+
+Subjective:
+
+S1 Severe Carpal Tunnel Syndrome Management:
+
+Patient has reported symptoms of carpal tunnel syndrome in the right wrist for approximately six months, with significant worsening in the last month. Diagnosis was confirmed via EMG and nerve conduction studies. Symptoms include numbness, tingling, pain, and difficulty with gripping objects.
+
+S2 Treatment History:
+
+Has been under conservative treatment, including wrist splinting, NSAIDs for pain relief, and corticosteroid injections without significant improvement. Considering surgical intervention due to the lack of response to conservative treatments.
+
+S3 Work-related Impact:
+
+Patient's ability to perform job-related tasks, especially typing and fine motor skills, has been significantly affected due to the condition.
+
+S4 Past Medical History:
+
+Patient has no significant past medical history unrelated to current condition. No known allergies to medications.
+
+S5 Lifestyle and Occupational Information:
+
+Patient works as a data entry specialist, which involves repetitive hand movements. Quit smoking 10 years ago, occasional alcohol consumption, no recreational drug use. Lives alone, enjoys walking as a form of exercise.
+
+Objective:
+
+Examination shows reduced grip strength in the right hand, positive Tinel's and Phalen's signs, and reduced sensation in the thumb, index, and middle fingers. No swelling or discoloration observed.
+
+Assessment:
+
+Severe carpal tunnel syndrome in the right wrist, significantly impacting patient's quality of life and ability to perform work-related tasks. Unable to perform repetitive hand movements or lift objects over 5 pounds with the right hand. Limited ability to type or write, significantly affecting the ability to perform job-related tasks.
+
+Plan:
+
+Surgical Intervention: Schedule carpal tunnel release surgery for 04/10/2024.
+Post-Operative Care: Recommend physical therapy post-surgery to regain strength and functionality in the right wrist.
+Work Modifications: Advise patient on seeking workplace modifications to reduce strain on the wrist post-recovery.
+Follow-up: Arrange for a follow-up appointment 2 weeks post-surgery to monitor recovery progress.

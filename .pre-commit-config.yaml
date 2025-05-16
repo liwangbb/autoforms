@@ -1,0 +1,44 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace  # Removes trailing spaces
+      - id: end-of-file-fixer  # Ensures files end with a newline
+      - id: check-ast  # Ensures Python syntax is correct
+      - id: check-yaml  # Validates YAML syntax
+      - id: check-json  # Validates JSON syntax
+      - id: check-toml  # Validates TOML syntax
+
+  - repo: https://github.com/psf/black
+    rev: 24.2.0
+    hooks:
+      - id: black  # Formats code using Black
+        args: ["--line-length", "79", "--quiet"]
+
+  - repo: https://github.com/PyCQA/flake8
+    rev: 6.1.0
+    hooks:
+      - id: flake8  # Checks for PEP8 violations
+        args: ["--ignore=E203, W503"]
+
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.12.0
+    hooks:
+      - id: isort  # Ensures imports are sorted properly
+        args: ["--profile", "black"]
+
+  - repo: https://github.com/PyCQA/pylint
+    rev: v3.0.2
+    hooks:
+      - id: pylint  # Performs static code analysis
+        args: ["--disable=E0401,C0114,C0115,C0116"]  # Disables missing module, class, and function docstrings
+
+  - repo: https://github.com/PyCQA/bandit
+    rev: 1.7.5
+    hooks:
+      - id: bandit  # Security vulnerability scanner for Python
+
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.3.2
+    hooks:
+      - id: ruff  # Fast Python linter alternative to flake8

@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+mutuo_conda_env/
+venv/
+
+# Environment variables
+.env
+
+# Ignore the tests directory
+tests/
+
+# Ignore the output directory
+output/
+
+# Ignore the google-credential file
+wl-google-service-account.json
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Ignore system-specific files
+Thumbs.db
+
+# Ignore cashe files
+.pytest_cache
+.ruff_cache
+.vscode/
+outputs/

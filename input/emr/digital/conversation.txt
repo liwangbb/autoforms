@@ -1,0 +1,72 @@
+Dr. Carter: "Jane, could you confirm your phone number for our records?"
+
+Jane Smith: "Yes, it's 201-555-1234."
+
+Dr. Carter: "What is your current address?"
+
+Jane Smith: "I'm now at Apt # 817, 789 Oak Street, Springfield, NJ, 01112."
+
+Dr. Carter: "Do you have the means to print medical forms at home?"
+
+Jane Smith: "Yes, I have a printer that works fine."
+
+Dr. Carter: "And your E-Mail Address for sending updates?"
+
+Jane Smith: "That would be janesmith@email.com."
+
+Dr. Carter: "Are you receiving any disability benefits currently?"
+
+Jane Smith: "I've applied for WSIB benefits."
+
+Dr. Carter: "We are having an examination at 04/24/2024, correct? "
+
+Jane Smith: Yes
+
+Dr. Carter: "Can you tell me the date when you were deemed totally disabled from work?"
+
+Jane Smith: "This was determined 04/03/2024."
+
+
+Dr. Carter: "Which anesthetic was administered for your surgery?"
+
+Jane Smith: "They used a local anesthetic."
+
+Dr. Carter: "Where are you currently undergoing treatment?"
+
+Jane Smith: "My sessions are at the therapist's office."
+
+Dr. Carter: "Have we set up a return-to-work plan?"
+
+Jane Smith: "Indeed, we've discussed transitioning back with modified duties at my workplace."
+
+Dr. Carter: "When is your expected full-time return to work, and when is our next appointment?"
+
+Jane Smith: "I plan to return full-time in three months, with our next appointment in two weeks."
+
+Dr. Carter: "Do you have any additional comments or concerns?"
+
+Jane Smith: "I'm grateful for the ongoing support during my recovery."
+
+Dr. Carter: "And how long might you need the workplace modifications?"
+
+Jane Smith: "I expect to need them for at least six months as I recover."
+
+Dr. Carter: "Has a Form 8 been submitted for your WSIB?"
+
+Jane Smith: "Yes, it's been filed with my application."
+
+Dr. Carter: "How often are your therapy sessions?"
+
+Jane Smith: "I'm attending twice a week."
+
+Dr. Carter: "That's noted, Jane. We'll make sure all this information is updated in your form."
+
+Physician's Note:
+
+As Jane's attending physician, I would like to add the following information to ensure all records are complete and up to date:
+
+Physician's Name (Printed): Dr. Alexander Carter
+Telephone: 555-987-6543
+Address: 123 Health Way, Springfield, NJ, 01112
+Fax: 555-987-6544
+Specialty: Orthopedics

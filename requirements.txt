@@ -1,0 +1,26 @@
+# PDF Processing
+PyPDF2
+pdfplumber
+fillpdf
+PyMuPDF
+
+# Visualization
+matplotlib
+numpy
+
+# Environment Variables
+python-dotenv
+
+# Google Cloud for Document AI
+google-auth
+google-auth-httplib2
+google-api-core
+google-cloud-documentai
+
+# HTTP Requests
+requests
+
+#API
+fastapi
+uvicorn
+python-multipart
